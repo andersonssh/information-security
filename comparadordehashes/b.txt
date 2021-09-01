@@ -1,0 +1,1 @@
+Testando comparação de hashes em arquivos
